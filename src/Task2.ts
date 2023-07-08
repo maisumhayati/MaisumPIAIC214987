@@ -7,3 +7,5 @@ let personName: string = "Maisum Hayati";
 let messageToPerson: string = `Hello ${personName}, are you excited to do some typescripting :D`;
 
 console.log(messageToPerson);
+
+export {};
