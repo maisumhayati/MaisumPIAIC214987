@@ -2,6 +2,6 @@
 and print a message to that person.
 Your message should be simple, such as,
 “Hello Eric, would you like to learn some Python today?”*/
-var personName = "Maisum";
+var personName = "Maisum Hayati";
 var messageToPerson = "Hello ".concat(personName, ", are you excited to do some typescripting :D");
 console.log(messageToPerson);
